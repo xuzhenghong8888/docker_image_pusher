@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 2691432189/nginx-proxy-manager-monitor-zh
 2691432189/nginx-proxy-manager-monitor-zh:2.11.3
-
+minio/minio
