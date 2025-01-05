@@ -18,4 +18,5 @@ goharbor/harbor-db:v2.9.1
 goharbor/trivy-adapter-photon:v2.9.1
 goharbor/redis-photon:v2.9.1
 sunnywang/redis-tools-ubuntu:v0.5.1
-kornrunner/redis-cluster-proxy:latest
+anchorfree/twemproxy:latest
+
