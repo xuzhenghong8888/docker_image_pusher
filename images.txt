@@ -20,3 +20,4 @@ goharbor/redis-photon:v2.9.1
 sunnywang/redis-tools-ubuntu:v0.5.1
 anchorfree/twemproxy:latest
 paddlecloud/paddleocr:2.6-cpu-latest
+duolabmeng666/paddleocr
