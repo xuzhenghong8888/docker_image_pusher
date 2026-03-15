@@ -21,3 +21,4 @@ sunnywang/redis-tools-ubuntu:v0.5.1
 anchorfree/twemproxy:latest
 duolabmeng666/paddleocr:1.2
 xprobe/xinference:latest
+xinference:nightly-main
