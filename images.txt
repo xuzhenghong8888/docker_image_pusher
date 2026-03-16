@@ -22,3 +22,4 @@ anchorfree/twemproxy:latest
 duolabmeng666/paddleocr:1.2
 xprobe/xinference:latest
 xinference:nightly-main
+xprobe/xinference:v2.3.0
