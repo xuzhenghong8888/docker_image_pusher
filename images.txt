@@ -1,25 +1,3 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-2691432189/nginx-proxy-manager-monitor-zh
-2691432189/nginx-proxy-manager-monitor-zh:2.11.3
-minio/minio
-rancher/rancher:v2.10.0
-rancher/rancher-agent:v2.7.5
-goharbor/harbor-core:v2.9.1
-goharbor/harbor-jobservice:v2.9.1
-goharbor/harbor-portal:v2.9.1
-goharbor/registry-photon:v2.9.1
-goharbor/harbor-registryctl:v2.9.1
-goharbor/harbor-db:v2.9.1
-goharbor/trivy-adapter-photon:v2.9.1
-goharbor/redis-photon:v2.9.1
-sunnywang/redis-tools-ubuntu:v0.5.1
-anchorfree/twemproxy:latest
-duolabmeng666/paddleocr:1.2
-xprobe/xinference:nightly-main
-smanx/deepseek-harness
 osmanturan/strata:cuda-latest
