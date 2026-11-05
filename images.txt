@@ -1,4 +1,3 @@
 nginx
-osmanturan/strata:cuda-v0.2.10
 #支持私库
 python:3.11.18-slim-trixie
