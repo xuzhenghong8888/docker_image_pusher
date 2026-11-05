@@ -22,3 +22,4 @@ anchorfree/twemproxy:latest
 duolabmeng666/paddleocr:1.2
 xprobe/xinference:nightly-main
 smanx/deepseek-harness
+osmanturan/strata:cuda-latest
